@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Aditya15-adi
-- 👀 I’m interested in Machine, Learning, Cloud Computing, Artificial Intelligence
-- 🌱 I’m currently learning C++
+- 👀 I’m interested in Web Developement.
+- 🌱 I’m currently learning React.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me adityalahade796@gmail.com
 
